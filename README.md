@@ -47,6 +47,8 @@
 
   ## [Tests](#table-of-contents)
     * Use insomnia to test the api routes
-  
+    Video:https://drive.google.com/file/d/125bVdXKb_mYksYw4ZF4XqvezjqJ31MSE/view?usp=sharing
+
+
   ## [Contact](#table-of-contents)
 - [GitHub: jorgebesnierb](https://github.com/jorgebesnierb)    - [Email: jorgebesnierb@outlook.com](mailto:jorgebesnierb@outlook.com)
